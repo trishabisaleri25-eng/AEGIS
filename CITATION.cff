@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "AEGIS: AI Ethics & Governance Integrated System"
+authors:
+  - name: "AEGIS Contributors"
+version: 0.1.0
+date-released: 2026-06-12
+license: MIT
