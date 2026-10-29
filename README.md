@@ -80,8 +80,8 @@ hitl.define_checkpoint(
 Requirements: Python 3.9 or later.
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/trishabisaleri25-eng/AEGIS.git
+cd AEGIS
 pip install -r requirements.txt
 ```
 
